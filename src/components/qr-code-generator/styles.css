@@ -1,0 +1,16 @@
+body{
+    justify-content: center;
+}
+
+.inputDiv {
+    text-align: center;
+    column-gap: 20px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+}
+
+button{
+    color: #000 !important;
+    border-color: #000;
+}
